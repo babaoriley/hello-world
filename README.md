@@ -15,3 +15,8 @@ git commit -m "commentaire"
 git push origin master
 ```
 
+### Ajouter un remote
+
+```
+git remote add origin https://github.com/babaoriley/hello-world.git
+```
